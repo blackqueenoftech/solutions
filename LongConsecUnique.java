@@ -1,6 +1,6 @@
 /*
 
-Searches for the longest consecutive string (with unique characters)  within a string
+Searches for the length of the longest consecutive substring (with unique characters) within a string
 
 */
 
